@@ -1,5 +1,5 @@
 # Overview
-The following sections give an overview of the [IA --](https://iaallianz.mybluemix.net/) space.
+The following sections give an overview of the [IA --](https://--.mybluemix.net/) space.
 
 ### Objective
 The scope of the IA -- space is to foster the creation of various demo applications based on IBM Cloud services and infrastructure in order to portray relevant insurance business cases. By doing this, we aim to show the capability of IBM services as well as their cognitive intelligence in analysing data and processes. 
