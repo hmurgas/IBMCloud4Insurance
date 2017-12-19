@@ -1,1 +1,17 @@
+# Collection of relevant Insurance Demos
 
+* [Insurance Blockchain](https://bluedemos.com/show/224)
+* [CloudCo Insurance - Chatbot for Health Insurance](https://bluedemos.com/show/167)
+* [Drone Assisted Insurance Claims](https://bluedemos.com/show/157)
+* [Cognitive Mobile Banking and Insurance Demo](https://bluedemos.com/show/14)
+* [Cloud Insurance Co.](http://cloudco.mybluemix.net/)
+* [Smart Pasture Demo (IBM Services)](https://www.youtube.com/watch?v=EZc5COPqy6s)
+* [Insurance Claims Classification with Watson](https://github.ibm.com/Robert-Kleniewski/insurance-claims-classification)
+* [Pasture Insurance Rainfall Service](https://github.ibm.com/watson-iot-industry-lab/pasture-insurance-rainfall-service)
+* [Billing Agent - Watson Accelerators](https://watsonaccelerators.mybluemix.net/ibm/accelerator/billing)
+* [Cognitive Contract Management - Watson Accelerators](https://watsonaccelerators.mybluemix.net/ibm/accelerator/CCM)
+* [Cognitive Claims - Watson Accelerators](https://watsonaccelerators.mybluemix.net/ibm/accelerator/claims)
+* [Weather Company for Insurance - (No Demo)](https://business.weather.com/products/weather-alerts-for-engagement)
+* [Behavior Based Customer Insight for Insurance](http://www-01.ibm.com/software/analytics/learn-center/index.jsp?path=Industry/Insurance/&featured=114)
+* [IoT for Insurance - (No Demo)](https://www.ibm.com/internet-of-things/industries/iot-insurance)
+* [Customer Insight for Insurance](https://www.ibm.com/us-en/marketplace/customer-insight-for-insurance)
